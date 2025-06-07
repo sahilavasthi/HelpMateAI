@@ -22,7 +22,7 @@ Given Principal-Sample-Life-Insurance-Policy document containing information abo
 ### Challenges faced: Segmentation of the document and creation of a coherent response
 
 ## Conclusions
-- Appropriate results are achieved by executing queries such as,
+Appropriate results are achieved by executing queries such as,
 - What is the eligibility criteria of member life insurance?
 - What are the procedures and time limits for filing a claim and receiving benefits under this life insurance policy?
 

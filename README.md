@@ -1,5 +1,5 @@
 # Project Name
-HelpMateAI project for Insurance policy documents
+Building Effective Search Systems for Insurance policy documents
 
 
 ## Table of Contents
@@ -10,9 +10,9 @@ HelpMateAI project for Insurance policy documents
 
 ## General Information
 ### Project Background:
-I will be building a HelpMate AI project related to the insurance industry. An AI-powered project to extract information from insurance policy documents can revolutionize how policies are analyzed and understood. Using natural language processing (NLP), this system can efficiently scan, interpret, and extract key details such as coverage limits, exclusions, claim procedures, and premium details from the policy document
+I will be building an effective search systems project related to the insurance industry. An AI-powered project to extract information from insurance policy documents can revolutionize how policies are analyzed and understood. Using natural language processing (NLP), this system can efficiently scan, interpret, and extract key details such as coverage limits, exclusions, claim procedures, and premium details from the policy document
 ### Project Goal:
-To address this, I will develop HelpMate AI, a question-answering system that combines the power of Embedding models, RAG & Large language models to ensure accurate and reliable information delivery
+To address this, I will develop search systems for insurance policy documents, a question-answering system that combines the power of Embedding models, RAG & Large language models to ensure accurate and reliable information delivery
 ### Problem Statement:
 Given Principal-Sample-Life-Insurance-Policy document containing information about the Group Member Life Insurance (Eligibility, Terminations, Reinstatement, BENEFITS, Member Accidental Death and Dismemberment Insurance, Dependent Life Insurance, Claim Procedures, cuisine type, area etc.), I will build a chatbot that parses the document and provides accurate answers based on the user queries
 ### Approach:
